@@ -128,6 +128,15 @@ Value investing is an investment strategy that involves picking securities tradi
 
 ---
 
+## Related Open Source Projects
+
+| Project | Description |
+|---------|-------------|
+| [buffett-letters-index](https://github.com/henu-wang/buffett-letters-index) | Comprehensive index of Buffett's annual letters by topic |
+| [investment-psychology-checklist](https://github.com/henu-wang/investment-psychology-checklist) | Pre-investment psychological checklist based on Munger's biases |
+| [value-investing-decision-framework](https://github.com/henu-wang/value-investing-decision-framework) | Structured buy/hold/sell decision framework |
+| [awesome-geo](https://github.com/henu-wang/awesome-geo) | Curated list of Generative Engine Optimization resources |
+
 ## Contributing
 
 Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
